@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Math</string>
+    <string name="tagline">Quick sums. Sharp mind.</string>
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="home">Home</string>
+    <string name="level">LEVEL</string>
+    <string name="level_n">Level %1$d</string>
+    <string name="best_score">Best score</string>
+    <string name="games_played">Rounds played</string>
+    <string name="how_it_works">60 seconds. Answer as many as you can. Get faster and the questions get tougher. Slip up and they ease off.</string>
+    <string name="next_level_progress">%1$d%% to level %2$d</string>
+    <string name="max_level">Top level reached</string>
+    <string name="score">SCORE</string>
+    <string name="streak_label">STREAK</string>
+    <string name="multiplier">×%1$d</string>
+    <string name="points_popup">+%1$d</string>
+    <string name="correct_answer">= %1$d</string>
+    <string name="round_over">Round over</string>
+    <string name="new_best">New best!</string>
+    <string name="correct">Correct</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="avg_time">Avg time</string>
+    <string name="best_streak">Best streak</string>
+    <string name="seconds_value">%1$.1fs</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="level_up">Level up! %1$d → %2$d</string>
+    <string name="level_down">Level %1$d → %2$d. Keep going!</string>
+    <string name="level_same">Holding at level %1$d</string>
+    <string name="key_backspace">Delete</string>
+    <string name="key_clear">Clear</string>
+</resources>

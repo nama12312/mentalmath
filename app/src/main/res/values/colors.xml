@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night-sky backdrop -->
+    <color name="bg_top">#1B1446</color>
+    <color name="bg_bottom">#0B0820</color>
+    <color name="surface">#261E5C</color>
+    <color name="surface_light">#342A7A</color>
+    <color name="key">#2D2468</color>
+    <color name="key_pressed">#4A3DA3</color>
+
+    <!-- Accents -->
+    <color name="accent">#7C5CFF</color>
+    <color name="accent_light">#A891FF</color>
+    <color name="correct">#3DFFB0</color>
+    <color name="wrong">#FF5C7A</color>
+    <color name="streak">#FFC94D</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B7B0E6</color>
+    <color name="text_dim">#7D76B3</color>
+</resources>
